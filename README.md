@@ -26,3 +26,10 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 📘 Equation Gallery
+
+✨ Explore live equations!  
+
+[![View Gallery](https://img.shields.io/badge/View-Live%20Gallery-blue?style=for-the-badge)](https://sheshank-singh.github.io/)
+
