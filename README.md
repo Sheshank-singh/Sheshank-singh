@@ -98,10 +98,6 @@
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sheshank-singh&theme=tokyonight" height="170" alt="GitHub stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sheshank-singh&theme=tokyonight" height="170" alt="Top languages"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Sheshank-singh&theme=tokyonight&hide_border=true&background=1A1B27&ring=00F7FF&fire=FF4F8B&currStreakLabel=00F7FF" alt="GitHub streak"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sheshank-singh&theme=tokyo-night&hide_border=true&area=true&bg_color=1A1B27&color=00F7FF&line=C792EA&point=FF4F8B" width="100%" alt="Activity graph"/>
 </div>
 
 <!-- ======================= ANIMATED FOOTER ======================= -->
