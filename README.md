@@ -1,4 +1,4 @@
-# Hi, I'm Sheshank Singh 👋
+# Hi, I'm Sheshank Singh
 
 **AI/ML Researcher at BharatGen (IIM Indore)** · B.Tech Computer Engineering (AI & ML), Vidyalankar Institute of Technology, Mumbai · Graduating May 2027
 
@@ -44,4 +44,5 @@ I build computer vision, multimodal and LLM systems, from research experiments t
 - Open-source contributor to Google **Gemma**
 - Speaker, Git & GitHub workshop, CSI-VIT
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheshank-singh&show_icons=true&hide_border=true&count_private=true)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sheshank-singh&theme=default)
+![GitHub streak](https://streak-stats.demolab.com/?user=Sheshank-singh&hide_border=true)
