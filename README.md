@@ -1,28 +1,47 @@
+# Hi, I'm Sheshank Singh 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sheshanksingh2609) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Sheshanksingh26) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/sheshank-singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sheshanksingh2609@gmail.com) 
+**AI/ML Researcher at BharatGen (IIM Indore)** · B.Tech Computer Engineering (AI & ML), Vidyalankar Institute of Technology, Mumbai · Graduating May 2027
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sheshank-singh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sheshank-singh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheshank-singh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I build computer vision, multimodal and LLM systems, from research experiments to deployed apps. Previously an AI/ML Research Intern at **TIH IIT Bombay** and an ML Intern at **Trinetrini Quantum**, and a contributor to Google's **Gemma** open models.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sheshank-singh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sheshank-singh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white)](https://sheshank-singh.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheshanksingh2609)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sheshanksingh26)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheshanksingh2609@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sheshank-singh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/sheshanksingh) 
+## 🔬 Research and industry work
+*Most of this code is private under lab and company agreements. Happy to talk through it.*
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **TIH IIT Bombay, AI/ML Research Intern (Dec 2025 to Sep 2026).** I built a modular CV framework for crop disease and pest classification that reached **98.62% accuracy (F1 0.9843)** on 16 classes and **96.44%** on 7 classes. I built a multi-VLM diagnosis pipeline that benchmarks **5 open-source VLMs** (Qwen2.5-VL, InternVL3, LLaVA-OneVision, Gemma 3 and Molmo) for plant disease detection, with experiments on both **soybean** and **cucumber** disease. On soybean, a fine-tuned Qwen2.5-VL single-stage model reached **93.53% accuracy (macro F1 91.44%)** at about 0.2s, up from a **48.70%** zero-shot baseline. I also worked on OSR/OOD detection (Mahalanobis distance, temperature scaling, PROSER), FiftyOne data curation, and detection with YOLOv8, RT-DETR, RF-DETR and Faster R-CNN.
+- **Research paper (first author):** currently in the process of being published.
+- **BharatGen (IIM Indore), AI/ML Researcher (Jun 2026 to present).** I do deep learning and multimodal R&D, including **VLM benchmarking**: experiments, evaluation and reproducible ML workflows in PyTorch.
+- **Trinetrini Quantum, ML Intern (Jul to Nov 2025).** I built an end-to-end TB detection pipeline on chest X-rays with **96.3% Dice** lung segmentation, **0.79 recall** for active TB, Grad-CAM explanations and Flask deployment.
+
+## 🚀 Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| VLM Crop Disease Diagnosis *(private)* | Benchmarks 5 open-source VLMs for soybean disease captioning and diagnosis. Fine-tuned Qwen2.5-VL (image-only, single-stage) reaches **93.53%** accuracy (macro F1 **91.44%**) at ~0.2s, versus a **48.70%** zero-shot baseline. | Qwen2.5-VL, InternVL3, LLaVA-OV, Gemma 3, Molmo |
+| [QueryLens](https://github.com/Sheshank-singh/QueryLens) | Predicts PostgreSQL query execution time from 20 query-plan features and keeps only Gemini rewrites that lower EXPLAIN cost and return equivalent results. Comes with a co-authored paper. | FastAPI, React, scikit-learn, Gemini |
+| SarvBoli *(private)* | Text and voice practice for Hindi, Marathi and Telugu with code-mixing across 5 conversation modes. MuRIL language ID reaches **99.15%** token accuracy. | Next.js, FastAPI, WebSockets, PostgreSQL, Chroma |
+| Vision Lab *(private)* | No-code PyTorch workspace for the computer-vision lifecycle: dataset sanitization, augmentation, live training telemetry and evaluation with confusion-matrix probing. | FastAPI, PyTorch, React, OpenCV |
+| [FedAgri](https://github.com/Sheshank-singh/FedAgri) | Robust federated learning for plant disease classification under non-IID data, comparing lightweight and conventional CNNs | PyTorch, Flower |
+| [TB Detection with XAI](https://github.com/Sheshank-singh/TB-Detection-using-Segmentation-Classification-and-XAI) | Chest X-ray TB classifier with ResUNet++ segmentation and Grad-CAM | TensorFlow, Flask |
+| [ZentroMart VoiceOps Agent](https://github.com/Sheshank-singh/zentromart-voiceops-agent) | Voice customer-support agent with hybrid RAG, caller verification, order lookup and human handover | Sarvam LLM, Gnani STT/TTS |
+
+## 🛠️ Tech stack
+
+**AI/ML:** PyTorch · TensorFlow · scikit-learn · OpenCV · VLMs · LLMs
+**Data:** Python · SQL · Pandas · NumPy · PySpark · Airflow · ETL
+**Engineering:** FastAPI · Flask · React · REST · Docker · Git · Jenkins · Java · C
+**Databases and cloud:** PostgreSQL · MySQL · MongoDB · AWS (S3, IAM) · GCP · Azure
+
+## 🏆 Highlights
+- 🥇 1st Place, *Cognition Clash: The AI-ML Showdown* (VIT AI-ML Cluster + CESA), Oct 2025
+- Rank 683 of 2,500+, Summer Analytics Hackathon 2025 (IIT Guwahati)
+- Open-source contributor to Google **Gemma**
+- Speaker, Git & GitHub workshop, CSI-VIT
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheshank-singh&show_icons=true&hide_border=true&count_private=true)
