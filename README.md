@@ -75,6 +75,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
+## ⚔️ Skill Battle
+
+<div align="center">
+  <img src="./hero-vs-skills.svg" width="100%" alt="Sheshank vs The Stack: a pixel hero battles and defeats PyTorch, TensorFlow, OpenCV, VLMs, LLMs, FastAPI, React and Docker"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
 ## 🏆 Highlights
 - 🥇 1st Place, *Cognition Clash: The AI-ML Showdown* (VIT AI-ML Cluster + CESA), Oct 2025
 - Rank 683 of 2,500+, Summer Analytics Hackathon 2025 (IIT Guwahati)
